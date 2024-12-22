@@ -36,7 +36,6 @@
                 <p>Aplikasi ini dikerjakan oleh:</p>
                 <ul class="list-unstyled">
                     <li><strong>JOICE HIELMAN ABBRORI</strong> - NPM: 722520073</li>
-                    <li><strong>M. MIFTAKHUL HUDA</strong> - NPM: 722520081</li>
                 </ul>
             </div>
         </div>
